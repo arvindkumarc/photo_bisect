@@ -1,0 +1,22 @@
+{
+  "name": "photo_bisect",
+  "version": "1.0.0",
+  "description": "A simple utility to segregate photos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arvindkumarc/photo_bisect.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arvindkumarc/photo_bisect/issues"
+  },
+  "homepage": "https://github.com/arvindkumarc/photo_bisect#readme",
+  "dependencies": {
+    "express": "4.16.2"
+  }
+}
